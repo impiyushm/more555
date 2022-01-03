@@ -9,3 +9,8 @@ there are 4 types=>
 2 heap area==> declaration ( non-static method)
 3 single pool area==>  declaration( static method)
 4 method area==> body/defination(both static & non-static method)
+
+
+irshad111
+amar111
+piyush111
