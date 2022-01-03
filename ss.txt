@@ -1,0 +1,9 @@
+CReenShot
+
+jvm==> Java Virtualn Machine
+
+there are 4 types=>
+1 main Area==> main method flow execution
+2 heap area==> declaration ( non-static method)
+3 single pool area==>  declaration( static method)
+4 method area==> body/defination(both static & non-static method)
